@@ -8,9 +8,15 @@ function Home() {
     return (
         <>  
             <Header />
-                <main className="home">
-                    <h1>I am the home page</h1>
-                </main>
+            <main className="home">
+                <div className="container">
+                    <div className="grid">
+                        <div className="col-12">
+                            <h1>I am the home page</h1>
+                        </div>
+                    </div>
+                </div>
+            </main>
             <Footer />
         </>
     );

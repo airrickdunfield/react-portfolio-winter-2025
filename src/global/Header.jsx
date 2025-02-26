@@ -4,7 +4,19 @@ function Header() {
 
     return (
         <header>
-            <h1>Header Component</h1>
+            <div className="container">
+                <div className="grid">
+
+                    <div className="col-3">
+                        LOGO GOES HERE
+                    </div>
+
+                    <div className="col-9 header-menu">
+                        MENU GOES HERE
+                    </div>
+
+                </div>
+            </div>
         </header>
     );
 

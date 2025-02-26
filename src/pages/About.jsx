@@ -6,9 +6,9 @@ function About() {
     return (
         <>  
             <Header />
-                <main>
-                    <h1>I am the about page</h1>
-                </main>
+            <main>
+                <h1>I am the about page</h1>
+            </main>
             <Footer />
         </>
     );
