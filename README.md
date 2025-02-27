@@ -1,8 +1,5 @@
-# React + Vite
+# 3075 - Portfolio 1 - React Boilerplate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple bare-bones template for a site that includes a few routes, component based pages, css imports, and a very simple grid system. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use at your own risk! Could be fun tho.
