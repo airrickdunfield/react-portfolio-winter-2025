@@ -8,7 +8,7 @@ function About() {
             <div className="container">
                 <div className="grid">
                     <div className="col-12">
-                        <h1>I am the about page</h1>
+                        <h1>I am the work page</h1>
                     </div>
                 </div>
             </div>

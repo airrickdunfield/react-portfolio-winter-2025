@@ -1,7 +1,13 @@
 header {
-    padding: 2rem 0;    
+    padding: 1rem 0;    
 }
 
 .header-menu {
-    text-align: right;
+    display: flex;
+    justify-content: end;
+}
+
+
+.site-logo {
+    max-width: 60px;
 }

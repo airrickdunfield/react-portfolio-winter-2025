@@ -3,7 +3,7 @@ import "./Footer.css"
 function Footer() {
 
     return (
-        <footer>
+        <footer class="site-footer">
             <div className="container">
                 
                 <div className="grid">
